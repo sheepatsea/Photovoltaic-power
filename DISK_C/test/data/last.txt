@@ -1,0 +1,1 @@
+23	7	8	plant1\23_7_8.txt	plant2\23_7_8.txt	plant3\23_7_8.txt	plant4\23_7_8.txt	
